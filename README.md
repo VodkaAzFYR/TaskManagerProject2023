@@ -1,5 +1,5 @@
 # React + Vite
 
-Simple app to manage youre Tasks
+A simple task management application
 
-App is using Redux and routers
+The application uses Redux and routers
